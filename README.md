@@ -1,4 +1,4 @@
-# # Matrix & Vector Library (C)
+# Matrix & Vector Library (C)
 
 C dili ile geliştirilmiş matris ve vektör işlemleri kütüphanesi.
 Temel matris işlemleri ve istatistiksel hesaplamalar içerir.
